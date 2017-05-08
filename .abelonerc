@@ -1,0 +1,8 @@
+{
+  "url": "http://www.gutenberg.org/files/7452/7452-h.zip",
+  "basename": "7452-h",
+  "dir": "http://www.gutenberg.org/files/7452",
+  "compressor": ".zip",
+  "START_PAGE": "9",
+  "repo_url": "https://github.com/marvindanig/autobiography-of-a-yogi.git"
+}
