@@ -92,7 +92,8 @@ p.chapter-begin:first-letter {
   float: left;
   line-height: 10vw;
   font-size: 25vw;
-  color: hsla(200, 50%, 50%, 1);
+  color: hsla(11, 50%, 50%, 1);
+  font-family: 'Luckiest Guy', serif;
 }
 
 .center {

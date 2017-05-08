@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "autobiography-of-a-yogi",
-  "type": "text"
+  "name": "Autobiography Of A Yogi",
+  "type": "text",
+  "book_id": 411
 }
