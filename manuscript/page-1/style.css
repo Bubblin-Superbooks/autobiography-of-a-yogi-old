@@ -1,0 +1,6 @@
+body{
+    background-image: url(https://raw.githubusercontent.com/marvindanig/autobiography-of-a-yogi/master/cover/cover.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}

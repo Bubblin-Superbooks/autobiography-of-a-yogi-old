@@ -28,7 +28,7 @@
   // ************ DEFAULT TASK ***********//
   // *************************************//
 
-  gulp.task('default', ['renderBook', 'indexPage', 'watchBook'])
+  gulp.task('default', ['renderBook', 'indexPage'])
 
   // *************************************//
   // ************ Build BUILD ************//
